@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vector/SlidingPuzzleSolver/src/SlidingPuzzleSolver.h
+iostream
+-
+math.h
+-
+State.h
+/home/vector/SlidingPuzzleSolver/src/State.h
+Vector.h
+/home/vector/SlidingPuzzleSolver/src/Vector.h
+
+/home/vector/SlidingPuzzleSolver/src/State.h
+
+/home/vector/SlidingPuzzleSolver/src/Vector.h
+assert.h
+-
+cstring
+-
+iostream
+-
+
+/home/vector/SlidingPuzzleSolver/src/main.cpp
+iostream
+-
+chrono
+-
+SlidingPuzzleSolver.h
+/home/vector/SlidingPuzzleSolver/src/SlidingPuzzleSolver.h
+

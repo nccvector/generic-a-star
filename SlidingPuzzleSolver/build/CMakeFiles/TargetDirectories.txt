@@ -1,0 +1,3 @@
+/home/vector/SlidingPuzzleSolver/build/CMakeFiles/rebuild_cache.dir
+/home/vector/SlidingPuzzleSolver/build/CMakeFiles/edit_cache.dir
+/home/vector/SlidingPuzzleSolver/build/CMakeFiles/SlidingPuzzleSolver.dir

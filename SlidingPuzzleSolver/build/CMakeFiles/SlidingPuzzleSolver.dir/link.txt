@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/SlidingPuzzleSolver.dir/src/main.cpp.o -o SlidingPuzzleSolver 
